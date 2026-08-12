@@ -1,0 +1,8 @@
+{
+  "name": "MrCash",
+  "description": "Earn real cash rewards by completing offers, surveys, and tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
